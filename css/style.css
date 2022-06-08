@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+*{
+	margin: 0;
+}
+body{
+	text-transform: capitalize;
+	font-family: 'Oswald', sans-serif;
+	color: #fff;
+	
+}
+
+.coxbazar{
+	height:100vh;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/coxbazar.jpg);
+    background: cover;
+    background-position: top;
+    background-blend-mode: normal;
+
+}
+.saintmartin{
+	height: 100vh;
+    background: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/saintmartin.jpg);
+    background: cover;
+    background-position: top;
+    background-blend-mode: normal;
+}
+.sajek{
+	height: 100vh;
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/sajek.jpg);
+    background: cover;
+    background-position: center;
+    background-blend-mode: normal;
+}
+.rangpur{
+	height: 100vh;
+    background: lightpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/rangpur.jpg);
+    background: cover;
+    background-position: center;
+    background-blend-mode: normal;
+}
+.zeropoint{
+	height: 100vh;
+    background: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/zeropoint.jpg);
+    background: cover;
+   background-position: center;
+    background-blend-mode: normal;
+}
+.shylet{
+	height: 100vh;
+    background: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/shylet.jpg);
+    background: cover;
+    background-position: center;
+    background-blend-mode: normal;
+}
+.panamcity{
+	height: 100vh;
+    background: deepskyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/panamcity.jpg);
+    background: cover;
+    background-position: top;
+    background-blend-mode: normal;
+}
